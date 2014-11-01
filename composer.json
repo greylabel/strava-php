@@ -1,0 +1,16 @@
+{
+    "name": "greylabel/strava-php",
+    "description": "PHP SDK for Strava REST API",
+    "license": "GPL-2.0",
+    "require": {
+        "guzzle/guzzle": ">=v3.0"
+    },
+    "minimum-stability" : "dev",
+    "authors": [
+        {
+            "name": "Grant Gaudet",
+            "email": "grant@greylabel.net",
+            "homepage": "http://greylabel.net/"
+        }
+    ]
+}
