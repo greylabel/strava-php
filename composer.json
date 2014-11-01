@@ -1,6 +1,7 @@
 {
     "name": "greylabel/strava-php",
     "description": "PHP SDK for Strava REST API",
+    "keywords":    ["Strava"],
     "license": "GPL-2.0",
     "require": {
         "guzzle/guzzle": ">=v3.0"
